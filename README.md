@@ -8,7 +8,7 @@ Prerequisites：jre 1.8 及以上
 
 使用项目根目录下 maven wrapper 的 `mvnw` 即可快速构建。
 
-todo list：
+使用前配置：
 
   - [ ] 填写配置文件中的邮箱信息（当程序发生异常，没有正常打卡时会通过邮箱通知）
   - [ ] 填写 Constant 类中的账户信息
